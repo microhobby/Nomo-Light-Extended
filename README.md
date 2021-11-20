@@ -8,6 +8,8 @@
 
 <div align=left>
 
+Forked from [be5invis/vscode-iconset](https://github.com/be5invis/vscode-iconset)
+
 #### How to use:
 
 1. Download and install the icon set.
