@@ -18,4 +18,4 @@ Forked from [be5invis/vscode-iconset](https://github.com/be5invis/vscode-iconset
 
 ## Icon Preview
 
-![Preview](./preview.png)))
+![Preview](./preview.png)
