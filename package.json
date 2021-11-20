@@ -1,0 +1,30 @@
+{
+	"name": "nomo-dark-extended",
+	"displayName": "Nomo Dark Icon Theme Extended",
+	"version": "1.4.0",
+	"description": "An extended icon pack from Nomo Dark Icon Theme",
+	"categories": ["Themes"],
+	"keywords": ["icon-theme", "icons", "customization", "theme", "ui", "nomo-dark", "nomo-dark-extended"],
+	"bugs": {
+		"url": "https://github.com/Senko-The-Kitsune/Nomo-Dark-Extended/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Senko-The-Kitsune/Nomo-Dark-Extended"
+	},
+	"license": "MIT",
+	"publisher": "SenkoTheKitsune",
+	"contributes": {
+		"iconThemes": [
+			{
+				"id": "nomo-dark-extended",
+				"label": "Nomo Dark Extended for Visual Studio Code",
+				"path": "icons.jsonc"
+			}
+		]
+	},
+	"engines": {
+		"vscode": "^1.5.0"
+	},
+	"icon": "logo.png"
+}
