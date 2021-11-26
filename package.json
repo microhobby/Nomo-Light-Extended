@@ -1,7 +1,7 @@
 {
 	"name": "nomo-dark-extended",
 	"displayName": "Nomo Dark Icon Theme Extended",
-	"version": "1.4.0",
+	"version": "1.4.2",
 	"description": "An extended icon pack from Nomo Dark Icon Theme",
 	"categories": ["Themes"],
 	"keywords": ["icon-theme", "icons", "customization", "theme", "ui", "nomo-dark", "nomo-dark-extended"],
@@ -18,7 +18,7 @@
 		"iconThemes": [
 			{
 				"id": "nomo-dark-extended",
-				"label": "Nomo Dark Extended for Visual Studio Code",
+				"label": "Nomo Dark Extended (Visual Studio Code)",
 				"path": "icons.jsonc"
 			}
 		]
@@ -26,5 +26,5 @@
 	"engines": {
 		"vscode": "^1.5.0"
 	},
-	"icon": "logo.png"
+	"icon": "content/logo.png"
 }

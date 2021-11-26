@@ -345,6 +345,24 @@
 		"folder.api.open": {
 			"iconPath": "./src/folder.api.open.svg"
 		},
+		"folder.github.close": {
+			"iconPath": "./src/folder.github.close.svg"
+		},
+		"folder.github.open": {
+			"iconPath": "./src/folder.github.open.svg"
+		},
+		"folder.events.close": {
+			"iconPath": "./src/folder.events.close.svg"
+		},
+		"folder.events.open": {
+			"iconPath": "./src/folder.events.open.svg"
+		},
+		"folder.data.close": {
+			"iconPath": "./src/folder.data.close.svg"
+		},
+		"folder.data.open": {
+			"iconPath": "./src/folder.data.open.svg"
+		},
 		// General
 		"_folder_dark": {
 			"iconPath": "./src/folder.close.svg"
@@ -373,6 +391,7 @@
 		"di": "file.d",
 		"js": "file.js",
 		"mjs": "file.js",
+		"jshintrc": "file.js",
 		"html": "file.html",
 		"htm": "file.html",
 		"css": "file.css",
@@ -545,7 +564,7 @@
 		".eslintignore": "config.eslint",
 		".babelrc": "config.babel",
 		"yarn.lock": "config.yarn",
-		"env": "file.env"
+		".env": "file.env"
 	},
 	"folderNames": {
 		".vscode": "folder.vs.close",
@@ -567,7 +586,10 @@
 		"typings": "folder.ts.close",
 		"types": "folder.ts.close",
 		"dev": "folder.dev.close",
-		"api": "folder.api.close"
+		"api": "folder.api.close",
+		"events": "folder.events.close",
+		".github": "folder.github.close",
+		"data": "folder.data.close"
 	},
 	"folderNamesExpanded": {
 		".vscode": "folder.vs.open",
@@ -589,7 +611,10 @@
 		"typings": "folder.ts.open",
 		"types": "folder.ts.open",
 		"dev": "folder.dev.open",
-		"api": "folder.api.open"
+		"api": "folder.api.open",
+		"events": "folder.events.open",
+		".github": "folder.github.open",
+		"data": "folder.data.open"
 	},
 	"languageIds": {
 		"objective-c": "file.objc",
