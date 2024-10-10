@@ -1,7 +1,7 @@
 {
 	"name": "nomo-light-extended",
 	"displayName": "Nomo Light Icon Theme Extended",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "An extended icon pack from Nomo Dark Icon Theme",
 	"categories": [
 		"Themes"
@@ -37,6 +37,9 @@
 		"vscode": "^1.5.0"
 	},
 	"icon": "content/logo.png",
+	"scripts": {
+		"pack": "vsce package"
+	},
 	"devDependencies": {
 		"vsce": "^2.15.0"
 	}
