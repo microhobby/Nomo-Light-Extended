@@ -1,6 +1,6 @@
 <div align=center>
 
-# Nomo Dark Extended Icon Set
+# Nomo Light Extended Icon Set
 
 ![Icons](https://img.shields.io/badge/Icons%20Added-117-orange)
 
@@ -8,7 +8,7 @@
 
 <div align=left>
 
-Forked from [be5invis/vscode-iconset](https://github.com/be5invis/vscode-iconset)
+Forked from [Senko-The-Kitsune/Nomo-Dark-Extended](https://github.com/Senko-The-Kitsune/Nomo-Dark-Extended)
 
 #### How to use:
 
